@@ -8,7 +8,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
 public class Ejercicio7 {
-
+   // EJERCICIO CON HISTORIAL Se deja comentado las funciones con sus test de ese momento.
     //Un número perfecto es un número para el que la suma de sus divisores propios es exactamente
     //igual al número. Por ejemplo, la suma de los divisores propios de 28 sería 1 + 2 + 4 + 7 + 14 = 28, lo
     //que significa que 28 es un número perfecto

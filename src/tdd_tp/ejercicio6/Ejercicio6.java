@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class Ejercicio6 {
-
+    // EJERCICIO CON HISTORIAL Se deja comentado las funciones con sus test de ese momento.
     /*
     2520 es el número más pequeño que se puede dividir por cada uno de los números del 1 al 10 sin
     que quede ningún resto.

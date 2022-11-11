@@ -14,13 +14,13 @@ public class Fibonacci {
 	int total = 0;
 				
 		for ( int i = 0 ; i < cantElem ; i++) {
-		
-		c = a + b;
-		a = b;
-		b = c;
-	
-		if (a % 2 == 0) {
-			total += a;
+
+			c = a + b;
+			a = b;
+			b = c;
+
+			if (a % 2 == 0) {
+				total += a;
 		}
 		
 	}
